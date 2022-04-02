@@ -6,4 +6,9 @@ public class gitHub {
 
 		  System.out.println("hub");
 		}
+	
+	 public void method1() {
+
+		  System.out.println("hub");
+		}
 }

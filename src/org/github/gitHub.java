@@ -12,12 +12,11 @@ public class gitHub {
 
 		  System.out.println("hub");
 		}
+
 	
 	 public void method2() {
 
 		  System.out.println("hub");
 		}
-	
-	
 	
 }
